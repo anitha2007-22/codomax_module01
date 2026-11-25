@@ -37,26 +37,9 @@ Open a terminal in this repository and run:
 ```bash
 python programs/01_hello_codomax.py
 ```
-For another program, replace the filename.
-
-## Upload to GitHub
-1. Sign in to https://github.com/
-2. Select **New repository**.
-3. Enter the repository name `codomax-ai-python-internship`.
-4. Choose **Public** if your internship instructions require a public repository; otherwise choose the visibility requested by your coordinator.
-5. Create the repository.
-6. Upload the files/folders from this ZIP, or use Git commands:
-
-```bash
-git init
-git add .
-git commit -m "Add Module 1 AI and Python learning materials"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/codomax-ai-python-internship.git
-git push -u origin main
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username. Do not upload passwords, API keys, private offer-letter details or other personal information.
+.
 
 ## Learning outcome
 After completing this module, you should be able to explain basic AI concepts and write simple Python programs using variables, data types, operators, conditions, loops, functions and lists.
